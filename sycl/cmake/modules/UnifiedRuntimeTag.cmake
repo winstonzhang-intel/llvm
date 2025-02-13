@@ -4,4 +4,4 @@
 # Date:   Thu Feb 13 11:43:34 2025 +0000
 #     Merge pull request #2680 from ldorau/Set_UMF_CUDA_INCLUDE_DIR_to_not_fetch_cudart_from_gitlab
 #     Do not fetch cudart from gitlab for UMF
-set(UNIFIED_RUNTIME_TAG ca7cf4aeeaeecade9eecf6b3e9ce169c2331968a)
+set(UNIFIED_RUNTIME_TAG 7522caa2a0222dd58f4725bfb981c3854127091c)
